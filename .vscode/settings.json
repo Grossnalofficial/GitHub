@@ -1,0 +1,4 @@
+{
+  "typescript.tsdk": "Exxon-schools-frontend-ionic/node_modules/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true
+}
